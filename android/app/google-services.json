@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94748087387",
+    "project_id": "wedding-b2710",
+    "storage_bucket": "wedding-b2710.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94748087387:android:d4db7e892b513eb01fdb7e",
+        "android_client_info": {
+          "package_name": "com.rootstudio.weddinghall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrMkEwnWgC97rEDoSPZ483tWxrAhBZ4FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
